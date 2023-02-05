@@ -1,0 +1,39 @@
+h1{
+color:blue;
+}
+h2{
+  color:blueviolet;
+}
+.one{
+    color:red;
+    background-color: beige;
+    height: 50px;
+    width: 100px;
+    
+}
+.two{
+    color: yellowgreen;
+    background-color: black;
+    height: 50px;
+    width: 100px;
+    
+}
+#four{
+    color:red;
+    font-size: large;
+    font-style: italic;
+}
+
+.remove{
+    color:orangered;
+    background-color: aqua;
+}
+
+.up{
+    color: green;
+    background-color: aquamarine;
+}
+.down{
+    color: blueviolet;
+    background-color: azure;
+}

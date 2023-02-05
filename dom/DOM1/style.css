@@ -1,0 +1,22 @@
+h1{
+    color: blueviolet;
+}
+p{
+    color: blue;
+}
+.Fruit{
+    color: aqua;
+    background-color: black;
+    width: 150px;
+    height: 100px;
+
+}
+.Vegetable{
+    color: red;
+    background-color:palevioletred;
+    width: 150px;
+    height: 100px;
+}
+#one{
+    color: green;
+}

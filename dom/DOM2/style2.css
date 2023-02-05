@@ -1,0 +1,30 @@
+h1{
+    color:purple;
+    background-color: yellow;
+    width:150px;
+    height: 100px
+}
+
+/*p{
+    color:blueviolet;
+    background-color: bisque;
+    width: 100px;
+    height: 100px;
+}*/
+
+.one {
+    color:red;
+    background-color: black;
+    width: 150px;
+    height:150px
+}
+
+.two {
+    color:yellow;
+    background-color:blue;
+    width: 250px;
+    height:250px
+}
+#three {
+color:brown
+}
